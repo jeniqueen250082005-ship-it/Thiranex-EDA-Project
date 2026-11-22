@@ -1,0 +1,25 @@
+EXPLORATORY DATA ANALYSIS SUMMARY
+       study_hours  attendance  ...  sleep_hours  final_score
+count   500.000000  500.000000  ...   500.000000   500.000000
+mean      5.487080   76.687860  ...     6.999540    79.067700
+std       2.688059   12.847319  ...     1.143175    12.719296
+min       1.050000   55.210000  ...     5.010000    44.110000
+25%       3.175000   65.312500  ...     6.072500    69.812500
+50%       5.620000   76.230000  ...     6.985000    79.025000
+75%       7.805000   87.687500  ...     7.970000    88.305000
+max       9.940000   99.990000  ...     8.980000   100.000000
+
+[8 rows x 6 columns]
+
+Missing Values:
+study_hours         0
+attendance          0
+previous_score      0
+assignment_score    0
+sleep_hours         0
+final_score         0
+performance         0
+dtype: int64
+
+Duplicate Rows:
+0
